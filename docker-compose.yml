@@ -1,0 +1,6 @@
+services:
+  etlhandon:
+    image: etlhandon
+    build:
+      context: .
+      dockerfile: ./Dockerfile
