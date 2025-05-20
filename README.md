@@ -62,3 +62,12 @@ main.py: Orchestrates the full ETL process by calling functions in etl.py.
 Input: data/raw_data.csv — your raw churn dataset.
 
 Output: data/clean_data.csv — the cleaned and preprocessed data ready for analysis or modeling.
+
+🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the pipeline.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📞 Contact
+email: ismailiayman1@gmail.com
