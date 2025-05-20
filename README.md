@@ -13,14 +13,15 @@ This project demonstrates a simple end-to-end data pipeline for preprocessing a 
 
 ## 📁 Project Structure
 
-etl_pipeline_project/
-├── data/
-│ ├── raw_data.csv
-│ └── clean_data.csv
-├── etl.py
-├── main.py
-├── requirements.txt
-└── README.md
+
+    etl_pipeline_project/
+    ├── data/
+    │   ├── raw_data.csv
+    │   └── clean_data.csv
+    ├── etl.py
+    ├── main.py
+    ├── requirements.txt
+    └── README.md
 
 
 ---
